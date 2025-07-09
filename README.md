@@ -1,6 +1,7 @@
 # cine-sphere
 
-digital world of movies
+Digital world of movies.
+Client for the [TMDB](https://www.themoviedb.org/) API
 
 ## TODOs
 
