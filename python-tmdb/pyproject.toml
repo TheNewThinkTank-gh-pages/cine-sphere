@@ -1,0 +1,10 @@
+[project]
+name = "python-tmdb"
+version = "0.0.1"
+description = "Python wrapper for TMDB API"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "python-dotenv>=1.1.1",
+    "tmdbsimple>=2.9.1",
+]
